@@ -1,0 +1,40 @@
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\DataMahasiswa-master\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\DataMahasiswa-master\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\DataMahasiswa-master\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\DataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+F:\17.11.1040 List Mahasiswa\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
